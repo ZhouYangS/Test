@@ -4,7 +4,9 @@
 
 //This is a test project,let's begain!
 
+//following is the main code
 
+#include<iostream>
 void main()
 {
    cout<<"Hello,GitHub!"<<endl;
