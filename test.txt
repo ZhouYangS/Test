@@ -1,2 +1,10 @@
 Hello,GitHub! Nice to meet you!
+I'm Peter,
+
 This is a test project,let's begain!
+
+
+void main()
+{
+   cout<<"Hello,GitHub!"<<endl;
+}
